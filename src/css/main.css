@@ -1,0 +1,12 @@
+@import url('reset.css');
+
+body {
+    background: url(../img/pattern/body18.png)
+}
+
+#introbar {
+    background: #66c5ca;
+    height: 9px;
+    border-bottom: 1px solid #5a96ca;
+
+}
